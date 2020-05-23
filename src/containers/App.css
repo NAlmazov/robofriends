@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TR2N';
+    font-style: normal;
+    font-weight: normal;
+    src: local('TR2N'), url(../Tr2n.ttf) format(ttf);
+}
+
+h1 {
+    font-family: 'TR2N';
+    color: rgb(158,255,255);
+    font-weight: 200;
+}
